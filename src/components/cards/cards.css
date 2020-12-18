@@ -1,0 +1,19 @@
+.containers{
+    margin: 50px 0px;
+    /* background-color:  rgb(194, 167, 167); */
+}
+.cardo{
+    margin: 0 2% !important;
+    background-color:  rgb(194, 167, 167) !important;
+    color: rgb(75, 33, 57) !important;
+}
+.formControl{
+    width: 30%;
+     margin-bottom: 30px !important;
+
+}
+@media (max-width: 770px){
+    .cardo{
+        margin: 2% 0 !important;
+    }
+}
